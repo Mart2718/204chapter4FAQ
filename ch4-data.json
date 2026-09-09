@@ -7,7 +7,7 @@
       "id": "faq-1",
       "category": "conceptual",
       "question": "What is mental math, and why does your textbook prioritize it before algorithms?",
-      "answer": "<p>Your textbook (Section 4.1) opens with a clear pedagogical claim: mental math is not a shortcut — it is the foundation of number sense. \"Mental math fosters numerical fluency, allowing students to move beyond rote memorization and engage with numbers conceptually\" (NCTM, 2020). Algorithms come <em>after</em> mental strategies are established, not before (SLO 4.1).</p><div class=\"example-box\"><div class=\"label\">What Mental Math Develops</div><p class=\"math-line\"><strong>Flexibility:</strong> Students learn there is no single path to an answer — the most efficient strategy depends on the numbers.</p><p class=\"math-line\"><strong>Number sense:</strong> Students develop a felt sense of magnitude — whether an answer is reasonable before they compute it.</p><p class=\"math-line\"><strong>Confidence:</strong> Students who can compute mentally trust their mathematical judgment; students who can only follow algorithms are dependent on paper or calculator.</p></div><div class=\"example-box\"><div class=\"label\">Howie Hua's Mental Math Strategies (Section 4.1)</div><p class=\"math-line\"><strong>\\(38 + 97\\):</strong> Think \\(38 + 100 - 3 = 135\\) (compensation — add more, subtract the excess)</p><p class=\"math-line\"><strong>\\(16 \\times 15\\):</strong> Think \\(16 \\times 15 = 8 \\times 30 = 240\\) (halve one factor, double the other)</p><p class=\"math-line\">These aren't tricks — they're applications of the associative and distributive properties from Chapter 3, now used for speed.</p></div>"
+      "answer": "<p>Your textbook (Section 4.1) opens with a clear pedagogical claim: mental math is not a shortcut — it is the foundation of number sense. \"Mental math fosters numerical fluency, allowing students to move beyond rote memorization and engage with numbers conceptually\" (NCTM, 2020). Algorithms come <em>after</em> mental strategies are established, not before (SLO 4.1).</p><div class=\"example-box\"><div class=\"label\">What Mental Math Develops</div><p class=\"math-line\"><strong>Flexibility:</strong> Students learn there is no single path to an answer — the most efficient strategy depends on the numbers.</p><p class=\"math-line\"><strong>Number sense:</strong> Students develop a felt sense of magnitude — whether an answer is reasonable before they compute it.</p><p class=\"math-line\"><strong>Confidence:</strong> Students who can compute mentally trust their mathematical judgment; students who can only follow algorithms are dependent on paper or calculator.</p></div><div class=\"example-box\"><div class=\"label\">Howie Hua's Mental Math Strategies (Section 4.1)</div><p class=\"math-line\"><strong>\\(38 + 97\\):</strong> Think \\(38 + 100 - 3 = 135\\) (compensation — add more, subtract the excess)</p><p class=\"math-line\"><strong>\\(16 \\times 15\\):</strong> Think \\(16 \\times 15 = 8 \\times 30 = 240\\) (halve one factor, double the other)</p><p class=\"math-line\">These aren't tricks — they're applications of the associative and distributive properties from Chapter 3, now used for speed.</p></div><div class=\"tip\"><p class=\"math-line\"><strong>Early childhood connection:</strong> A 1st grader who solves 8 + 5 by thinking &ldquo;I know 8 + 2 is 10, so 8 + 5 is 10 + 3, which is 13&rdquo; is doing exactly what Howie Hua&rsquo;s compensation strategy does with bigger numbers &mdash; just at a scale that fits their hands and their number sense. Prioritizing mental strategies before standard algorithms mirrors what should happen in a real K&ndash;2 classroom: number sense first, procedure second.</p></div>"
     },
     {
       "id": "faq-2",
@@ -19,7 +19,7 @@
       "id": "faq-3",
       "category": "conceptual",
       "question": "What are Fermi problems, and why does your textbook include them?",
-      "answer": "<p>Section 4.1 introduces <strong>Fermi problems</strong> — estimation problems with no exact answer, where the goal is systematic reasoning from approximate data. They are named after physicist Enrico Fermi, who was famous for making remarkably accurate estimates of complex quantities.</p><div class=\"example-box\"><div class=\"label\">Your Textbook's Fermi Problem Framework</div><p class=\"math-line\"><strong>Understand:</strong> Restate in simple terms. Identify what needs to be estimated and list assumptions.</p><p class=\"math-line\"><strong>Devise a Plan:</strong> Break into smaller parts. Choose a strategy (multiplication, division, proportions).</p><p class=\"math-line\"><strong>Carry Out:</strong> Perform rough calculations. Keep track of units. Adjust if unreasonable.</p><p class=\"math-line\"><strong>Look Back:</strong> Does the answer make sense? Verify with a different approach.</p></div><div class=\"example-box\"><div class=\"label\">Textbook Fermi Problems</div><p class=\"math-line\">\"How many students will an elementary teacher teach in their career?\"</p><p class=\"math-line\">\"How many hours does someone born in the United States sleep in their lifetime?\"</p><p class=\"math-line\">\"How far could you walk in one year?\"</p></div><p>The purpose: Fermi problems require <em>all four</em> of Polya's steps (Chapter 1), estimation strategies (Chapter 4), and multiplicative reasoning (Chapter 3) — in a context with no algorithm to follow. They are the ultimate test of flexible mathematical thinking and a powerful tool for the future teacher's classroom.</p>"
+      "answer": "<p>Section 4.1 introduces <strong>Fermi problems</strong> — estimation problems with no exact answer, where the goal is systematic reasoning from approximate data. They are named after physicist Enrico Fermi, who was famous for making remarkably accurate estimates of complex quantities.</p><div class=\"example-box\"><div class=\"label\">Your Textbook's Fermi Problem Framework</div><p class=\"math-line\"><strong>Understand:</strong> Restate in simple terms. Identify what needs to be estimated and list assumptions.</p><p class=\"math-line\"><strong>Devise a Plan:</strong> Break into smaller parts. Choose a strategy (multiplication, division, proportions).</p><p class=\"math-line\"><strong>Carry Out:</strong> Perform rough calculations. Keep track of units. Adjust if unreasonable.</p><p class=\"math-line\"><strong>Look Back:</strong> Does the answer make sense? Verify with a different approach.</p></div><div class=\"example-box\"><div class=\"label\">Textbook Fermi Problems</div><p class=\"math-line\">\"How many students will an elementary teacher teach in their career?\"</p><p class=\"math-line\">\"How many hours does someone born in the United States sleep in their lifetime?\"</p><p class=\"math-line\">\"How far could you walk in one year?\"</p></div><p>The purpose: Fermi problems require <em>all four</em> of Polya's steps (Chapter 1), estimation strategies (Chapter 4), and multiplicative reasoning (Chapter 3) — in a context with no algorithm to follow. They are the ultimate test of flexible mathematical thinking and a powerful tool for the future teacher's classroom.</p><div class=\"tip\"><p class=\"math-line\"><strong>Early childhood connection:</strong> A kindergarten teacher who asks &ldquo;about how many kids do you think are absent today?&rdquo; before taking attendance is planting the seed of Fermi-style reasoning &mdash; a systematic guess from partial information, long before students can compute anything close to an exact answer. Fermi problems aren&rsquo;t a new skill so much as a formalized, scaled-up version of a question good early-childhood teachers already ask instinctively.</p></div>"
     },
     {
       "id": "faq-4",
@@ -55,7 +55,7 @@
       "id": "faq-9",
       "category": "conceptual",
       "question": "What is rounding, and how does it differ from other estimation strategies?",
-      "answer": "<p>Your textbook (Section 4.1) presents rounding as one specific estimation strategy — not the only one, and not always the best one. Understanding what rounding does and when to use it is part of estimation fluency (SLO 4.1).</p><div class=\"example-box\"><div class=\"label\">Rounding Rules from Section 4.1</div><p class=\"math-line\">1. Identify and underline the digit in the place value you are rounding <em>to</em>.</p><p class=\"math-line\">2. Look at the digit immediately to the right:</p><p class=\"math-line\">If it is <strong>5 or higher</strong>: increase the underlined digit by 1, change all digits to the right to 0.</p><p class=\"math-line\">If it is <strong>less than 5</strong>: leave the underlined digit unchanged, change all digits to the right to 0.</p></div><div class=\"example-box\"><div class=\"label\">Rounding vs. Other Strategies</div><p class=\"math-line\"><strong>Rounding</strong> replaces each number with a round number before computing. Best for: getting a single estimate quickly.</p><p class=\"math-line\"><strong>Compatible numbers</strong> doesn't necessarily round to round numbers — it picks numbers that work together easily. Often more accurate than rounding.</p><p class=\"math-line\"><strong>Range estimation</strong> deliberately over- and under-estimates to bracket the true answer. Best for: determining if an answer is reasonable.</p></div><p>Your textbook exercise illustrates the difference: Vanessa estimated \\(31 \\times 179\\) three ways — \\(30 \\times 200 = 6000\\), \\(30 \\times 180 = 5400\\), \\(31 \\times 200 = 6200\\). The second estimate (\\(5400\\)) is closest to the actual product (\\(5549\\)) because it uses numbers closer to the originals. This is compatible-number thinking, not pure rounding.</p>"
+      "answer": "<p>Your textbook (Section 4.1) presents rounding as one specific estimation strategy — not the only one, and not always the best one. Understanding what rounding does and when to use it is part of estimation fluency (SLO 4.1).</p><div class=\"example-box\"><div class=\"label\">Rounding Rules from Section 4.1</div><p class=\"math-line\">1. Identify and underline the digit in the place value you are rounding <em>to</em>.</p><p class=\"math-line\">2. Look at the digit immediately to the right:</p><p class=\"math-line\">If it is <strong>5 or higher</strong>: increase the underlined digit by 1, change all digits to the right to 0.</p><p class=\"math-line\">If it is <strong>less than 5</strong>: leave the underlined digit unchanged, change all digits to the right to 0.</p></div><div class=\"example-box\"><div class=\"label\">Rounding vs. Other Strategies</div><p class=\"math-line\"><strong>Rounding</strong> replaces each number with a round number before computing. Best for: getting a single estimate quickly.</p><p class=\"math-line\"><strong>Compatible numbers</strong> doesn't necessarily round to round numbers — it picks numbers that work together easily. Often more accurate than rounding.</p><p class=\"math-line\"><strong>Range estimation</strong> deliberately over- and under-estimates to bracket the true answer. Best for: determining if an answer is reasonable.</p></div><p>Your textbook exercise illustrates the difference: Vanessa estimated \\(31 \\times 179\\) three ways — \\(30 \\times 200 = 6000\\), \\(30 \\times 180 = 5400\\), \\(31 \\times 200 = 6200\\). The second estimate (\\(5400\\)) is closest to the actual product (\\(5549\\)) because it uses numbers closer to the originals. This is compatible-number thinking, not pure rounding.</p><div class=\"tip\"><p class=\"math-line\"><strong>Early childhood connection:</strong> Long before children learn formal rounding rules, they build &ldquo;benchmark number&rdquo; sense &mdash; knowing that 8 is &ldquo;close to 10,&rdquo; or that a pile of 23 blocks is &ldquo;about the same as&rdquo; 25. That intuitive sense of nearness to a friendly number, built through games and comparisons in K&ndash;2, is exactly the number sense that formal rounding rules in grade 3 and beyond are designed to formalize, not replace.</p></div>"
     },
     {
       "id": "faq-10",
@@ -107,7 +107,10 @@
       "url": "https://www.youtube.com/watch?v=6S7ZhwrqzoI",
       "description": "Instructor-selected video for Chapter 4 content on mental math, estimation, or algorithms.",
       "category": "mental-math-estimation",
-      "relatedFaqs": ["faq-1", "faq-2"]
+      "relatedFaqs": [
+        "faq-1",
+        "faq-2"
+      ]
     },
     {
       "id": "vid-2",
@@ -115,7 +118,10 @@
       "url": "https://www.youtube.com/watch?v=GufkIBwlGQY",
       "description": "Instructor-selected video for Chapter 4 content on mental math, estimation, or algorithms.",
       "category": "mental-math-estimation",
-      "relatedFaqs": ["faq-1", "faq-9"]
+      "relatedFaqs": [
+        "faq-1",
+        "faq-9"
+      ]
     },
     {
       "id": "vid-3",
@@ -123,7 +129,10 @@
       "url": "https://www.youtube.com/watch?v=Xl3k3NOCczs",
       "description": "Instructor-selected video for Chapter 4 content on mental math, estimation, or algorithms.",
       "category": "mental-math-estimation",
-      "relatedFaqs": ["faq-2", "faq-11"]
+      "relatedFaqs": [
+        "faq-2",
+        "faq-11"
+      ]
     },
     {
       "id": "vid-4",
@@ -131,7 +140,10 @@
       "url": "https://www.youtube.com/watch?v=Fj20yMuvOjE",
       "description": "Dr. Howie Hua demonstrates his subtraction strategies — already embedded directly in Section 4.2 of your textbook for the exercises on \\(1000 - 789\\) and \\(101 - 17\\). The count-up and compensation approaches make subtraction accessible and flexible (SLO 4.1).",
       "category": "mental-math-estimation",
-      "relatedFaqs": ["faq-12", "faq-1"]
+      "relatedFaqs": [
+        "faq-12",
+        "faq-1"
+      ]
     },
     {
       "id": "vid-5",
@@ -139,7 +151,10 @@
       "url": "https://www.youtube.com/watch?v=ZuHA4CGGwak",
       "description": "Instructor-selected video for Chapter 4 algorithms or base computation content.",
       "category": "algorithms-bases",
-      "relatedFaqs": ["faq-5", "faq-6"]
+      "relatedFaqs": [
+        "faq-5",
+        "faq-6"
+      ]
     },
     {
       "id": "vid-6",
@@ -147,7 +162,10 @@
       "url": "https://www.youtube.com/watch?v=1wt7n8SGEjI",
       "description": "Instructor-selected video for Chapter 4 algorithms or base computation content.",
       "category": "algorithms-bases",
-      "relatedFaqs": ["faq-5", "faq-7"]
+      "relatedFaqs": [
+        "faq-5",
+        "faq-7"
+      ]
     },
     {
       "id": "vid-7",
@@ -155,7 +173,11 @@
       "url": "https://www.youtube.com/watch?v=SZbJb3XXRJk",
       "description": "Gary Parker covers mental math strategies for addition and subtraction — the same strategies used in Section 4.1 — including compensation, counting on, and using known facts to derive unknown ones (SLO 4.1).",
       "category": "mental-math-estimation",
-      "relatedFaqs": ["faq-1", "faq-11", "faq-12"]
+      "relatedFaqs": [
+        "faq-1",
+        "faq-11",
+        "faq-12"
+      ]
     },
     {
       "id": "vid-8",
@@ -163,7 +185,10 @@
       "url": "https://www.youtube.com/watch?v=vh0znw-GoZg",
       "description": "Gary Parker demonstrates the Russian Peasant (doubling) multiplication algorithm — the same Egyptian/doubling method presented in Section 4.3 alongside lattice and partial products (SLO 4.3 & 4.4).",
       "category": "algorithms-bases",
-      "relatedFaqs": ["faq-5", "faq-14"]
+      "relatedFaqs": [
+        "faq-5",
+        "faq-14"
+      ]
     }
   ],
   "apps": [
@@ -172,7 +197,10 @@
       "title": "Desmos Scientific Calculator",
       "url": "https://www.desmos.com/scientific",
       "description": "The calculator tool used throughout Section 4.1 and 4.2 — algebraic logic, PEMDAS-compliant, free, and browser-based. Use to verify mental math estimates, explore order of operations, and compare results with basic four-function calculators (SLO 4.2).",
-      "relatedFaqs": ["faq-4", "faq-8"]
+      "relatedFaqs": [
+        "faq-4",
+        "faq-8"
+      ]
     }
   ],
   "prompts": {
